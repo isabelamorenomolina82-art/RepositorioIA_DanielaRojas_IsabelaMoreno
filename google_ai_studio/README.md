@@ -83,5 +83,38 @@ Google AI Studio es un entorno profesional para diseñar, probar y ajustar promp
 ## Reflexión Técnica
 El uso de Google AI Studio permitió evaluar cómo los parámetros modifican el comportamiento de los modelos generativos. En prompts técnicos, temperaturas y top-p bajos ayudaron a mantener precisión y evitar invenciones. En prompts creativos, valores más altos permitieron ampliar la expresividad y variedad narrativa. Las iteraciones demostraron que ajustar progresivamente el prompt mejora coherencia, profundidad y relevancia. El contexto adicional incrementó la fidelidad del análisis técnico y fortaleció el marco cultural en la narración creativa. La ingeniería de prompts se confirmó como un proceso iterativo donde cada parámetro influye significativamente en el tipo y calidad de la respuesta generada.
 
+<img width="946" height="590" alt="image" src="https://github.com/user-attachments/assets/d1745028-5b97-4f9c-90fd-e370c0a8bd5c" />
+
+## Promt tecnico 
+<img width="957" height="596" alt="image" src="https://github.com/user-attachments/assets/483c2edc-9e05-4a98-afdf-fa65b0c46128" />
+
+## Generar iteraciones documentadas 
+
+<img width="921" height="575" alt="image" src="https://github.com/user-attachments/assets/5b2fa2f8-fae8-4228-ae08-8756db1aa438" />
+
+<img width="921" height="575" alt="image" src="https://github.com/user-attachments/assets/a0c70e58-b21d-40de-92e2-81cbf21c2b7f" />
+
+<img width="921" height="575" alt="image" src="https://github.com/user-attachments/assets/b1e85799-ff6d-4615-bef8-f013ca097ae1" />
+
+<img width="921" height="572" alt="image" src="https://github.com/user-attachments/assets/c412f6f2-1060-4dbe-a9c5-dc7563443867" />
+
+## Reflexion tecnica documentada 
+## Análisis del uso de Google AI Studio
+
+El uso de Google AI Studio permitió evaluar cómo los parámetros modifican el comportamiento de los modelos generativos.  
+En indicaciones técnicas, temperaturas y valores **top-p** bajos ayudan a mantener la precisión y evitar invenciones.  
+En sugerencias creativas, valores más altos permiten ampliar la expresividad y la variedad narrativa.  
+
+Las iteraciones demostraron que ajustar progresivamente la instrucción mejora la coherencia, profundidad y relevancia de las respuestas.  
+El contexto adicional incrementó la fidelidad del análisis técnico y fortaleció el marco cultural en la narración creativa.  
+
+La ingeniería de prompts se confirma como un proceso iterat
+
+
+
+
+
+
+
 ---
 
