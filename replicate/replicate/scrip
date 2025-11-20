@@ -1,0 +1,36 @@
+import replicate
+import time
+
+# Cargar la clave de API (exportar antes: export REPLICATE_API_TOKEN=“tu_token”)
+client = replicate.Client()
+
+def generate_image(prompt):
+    start = time.time()
+    output = client.run(
+        "stability-ai/sdxl:latest",
+        input={"prompt": prompt}
+    )
+    latency = time.time() - start
+    return output[0], latency  # Imagen y tiempo
+
+def generate_text(prompt):
+    start = time.time()
+    output = client.run(
+        "meta/meta-llama-3.1-70b-instruct",
+        input={"prompt": prompt, "max_tokens": 150}
+    )
+    latency = time.time() - start
+    return output, latency
+
+if __name__ == "__main__":
+    img_prompt = "A futuristic robot playing chess"
+    text_prompt = "Resume en 4 líneas qué es una red neuronal convolucional."
+
+    img, t1 = generate_image(img_prompt)
+    text, t2 = generate_text(text_prompt)
+
+    print("Imagen generada:", img)
+    print("Latencia imagen:", t1, "segundos")
+    
+    print("\nTexto generado:", text)
+    print("Latencia texto:", t2, "segundos")
