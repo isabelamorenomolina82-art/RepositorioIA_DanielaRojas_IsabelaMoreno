@@ -130,5 +130,3 @@ Además de realizar un EDA completo, pude conectar los hallazgos con aplicacione
 
 **Fin del informe.**
 
-
-**Fin del informe.**
