@@ -6,6 +6,9 @@ Ofrece una colección amplia de modelos para texto, imagen, audio y video, los c
 También permite versionar modelos, consultar tiempos de ejecución, ajustar parámetros y acceder a implementaciones reproducibles.  
 Es una herramienta útil para desarrolladores que buscan integrar IA en aplicaciones sin gestionar hardware o despliegues avanzados.
 
+<img width="1919" height="1168" alt="image" src="https://github.com/user-attachments/assets/62b12b98-439c-4da1-9ead-5ebf7eefbef8" />
+
+
 ## Modelos generativos (Imagenes) 
 
 <img width="921" height="575" alt="image" src="https://github.com/user-attachments/assets/67635602-d230-4b12-a479-7018813ae4b5" />
