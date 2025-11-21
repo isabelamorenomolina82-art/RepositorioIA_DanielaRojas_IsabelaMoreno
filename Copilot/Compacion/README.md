@@ -9,3 +9,6 @@ GitHub Copilot es un asistente de codificación impulsado por inteligencia artif
 
 <img width="1217" height="706" alt="image" src="https://github.com/user-attachments/assets/718f1eb5-d8a7-4bb5-9baa-539aa18a4e5c" />
 
+## Codigo comparacion 
+
+<img width="1702" height="851" alt="image" src="https://github.com/user-attachments/assets/5378e7bc-e5db-4aac-a5fc-9c57acebf072" />
