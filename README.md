@@ -1,6 +1,6 @@
 # Laboratorio 08 — Repositorios y Plataformas de Inteligencia Artificial  
 ### Universidad de Manizales — Profundización I: Inteligencia Artificial  
-### Estudiantes: Daniela Rojas – Isabela Moreno  
+### Estudiantes: Daniela Rojas – Isabela Moreno Molina  - Daniela Katherine Buitrago - Jesus Antonio Gaviria  - Juan Esteban Murillo 
 ---
 
 ## 📌 1. Introducción
