@@ -59,14 +59,14 @@ La descomposición + lectura de errores fue la más útil, porque: Permitió ava
 
 ## 5. Reflexión sobre mi crecimiento profesional y rol como ingeniero
 
-**¿Cómo fortaleció este laboratorio tu identidad como ingeniero o profesional en I?**
+**¿¿Cómo fortaleció este laboratorio tu identidad como ingeniero o profesional en IA?**
 
 Me hizo sentir menos como “usuario de herramientas” y más como diseñador de solucione el cual es el que decide: qué modelo escoger cómo integrarlo y cómo documentar el proceso.
 
 **¿Qué descubriste sobre tu capacidad para aprender herramientas nuevas, integrar sistemas, evaluar tecnologías y documentar proceso?**
 
-- Que soy capaz de aprender herramientas nuevas relativamente rapido, tener un contro de experimento, leer y hacer documentación,
-- Que puedo evaluar tecnologías comparando outputs, facilidad de uso y requisitos técnicos.
+- Que soy capaz de aprender herramientas nuevas relativamente rapido, tener un centro de experimento, leer y hacer documentación,
+- Que puedo evaluar tecnologías, facilidad de uso y requisitos técnicos.
 
 **¿En qué áreas te sientes más fuerte ahora y qué deberías seguir reforzand?**
 
